@@ -1,0 +1,17 @@
+
+#### 2. `requirements.txt`
+torch==2.3.0
+torchvision
+transformers==4.42.4
+datasets==2.21.0
+mamba-ssm==1.2.1
+dgl==2.1.0
+open-clip-torch
+wandb
+tqdm
+einops
+pillow
+jupyter
+scikit-learn
+matplotlib
+seaborn
